@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    background: #214F4B;
+    color: #16C172;
+    border-bottom: 12px solid #644640;
+        
+    /*
+    Colors found on Coolors.co
+     */
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+
